@@ -16,7 +16,7 @@
     <property name="build" location="build"/>
     <property name="lib" location="lib"/>
     
-    <property name="klotski" location="${dist}\klotski.1.0.jar"/>
+    <property name="klotski" location="${dist}\klotski.jar"/>
     
     <path id="build.class.path">
         <fileset dir="${lib}">
